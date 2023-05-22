@@ -95,7 +95,7 @@ def sendImage():
     url = 'https://graph.facebook.com/v16.0/117162651379322/messages'
 
     # Parámetros de autenticación
-    token = 'EAAIIou6kHEkBAOwVxmZBBqjDiLgcieekDE2IaCQa4xY2aPYsF3ikSec9jbuTZAjL38u6E3IlcZAqWZBItZCZBRUJT1OHgQSn0BBbpKUL5dJzr6G4BKgZBSZBjec0uPMZAZAO3ZAICJ2MVkPbDtkiHB8czLFxXHKVEYN4V7OG21SjiYoS01PjrZBsvvWSGZAJVloGE07kKD1yRuFEmCwZDZD'
+    token = ''
 
     # Datos del mensaje
     telefono_destino = '593939889081'
@@ -134,7 +134,7 @@ def sendFile():
     url = 'https://graph.facebook.com/v16.0/117162651379322/messages'
 
     # Parámetros de autenticación
-    token = 'EAAIIou6kHEkBAOwVxmZBBqjDiLgcieekDE2IaCQa4xY2aPYsF3ikSec9jbuTZAjL38u6E3IlcZAqWZBItZCZBRUJT1OHgQSn0BBbpKUL5dJzr6G4BKgZBSZBjec0uPMZAZAO3ZAICJ2MVkPbDtkiHB8czLFxXHKVEYN4V7OG21SjiYoS01PjrZBsvvWSGZAJVloGE07kKD1yRuFEmCwZDZD'
+    token = ''
 
     # Datos del mensaje
     telefono_destino = '593939889081'
@@ -176,7 +176,7 @@ def sendAudio():
     url = 'https://graph.facebook.com/v16.0/117162651379322/messages'
 
     # Parámetros de autenticación
-    token = 'EAAIIou6kHEkBAOwVxmZBBqjDiLgcieekDE2IaCQa4xY2aPYsF3ikSec9jbuTZAjL38u6E3IlcZAqWZBItZCZBRUJT1OHgQSn0BBbpKUL5dJzr6G4BKgZBSZBjec0uPMZAZAO3ZAICJ2MVkPbDtkiHB8czLFxXHKVEYN4V7OG21SjiYoS01PjrZBsvvWSGZAJVloGE07kKD1yRuFEmCwZDZD'
+    token = ''
 
     # Datos del mensaje
     telefono_destino = '593939889081'
